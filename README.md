@@ -36,25 +36,25 @@ As a dedicated problem-solving enthusiast pursuing a Master's in Computer Scienc
 <img src="https://cdn.freebiesupply.com/images/large/2x/michelin-logo-png-transparent.png" width="150px">
 
 ### Specialist - Digital Solution Developer
-    - Developer in CX team of the Digital Factory for 400+ Michelin websites worldwide
-    - Responsible for the front end of CRM websites built for warranties, promotions, sign-up, login & user management in the UD squad
-    - Contributed in the FFCP(A funnel program for users) for french promotional websites
-    - Built a multi-slide sliding pause-on-hover panel
-    - Supported the B2C team on the revamp header on B2C websites
+  - Developer in CX team of the Digital Factory for 400+ Michelin websites worldwide
+  - Responsible for the front end of CRM websites built for warranties, promotions, sign-up, login & user management in the UD squad
+  - Contributed in the FFCP(A funnel program for users) for french promotional websites
+  - Built a multi-slide sliding pause-on-hover panel
+  - Supported the B2C team on the revamp header on B2C websites
 <hr>
 <img src="https://cdn.freebiesupply.com/images/large/2x/michelin-logo-png-transparent.png" width="150px">
 
 ### Internship Trainee
-    - Worked on API Portal – based on Software AG for enhancing the UX using Bootstrap 2
-    - Training on HTML, CSS, Bootstrap, VueJS, JS, SCSS, Apostrophe CMS, Node, MongoDB, git, and Docker(basic).
+  - Worked on API Portal – based on Software AG for enhancing the UX using Bootstrap 2
+  - Training on HTML, CSS, Bootstrap, VueJS, JS, SCSS, Apostrophe CMS, Node, MongoDB, git, and Docker(basic).
 <hr>
 <img src="https://abb.bluecoiniot.com/img/logoblue.png" width="125px">
 
 ### Intern
-    - Understand OWASP vulnerabilities and learn how to use OWASP ZAP to crawl websites
-    - Do penetration testing on the product
-    - Generated vulnerability reports for websites and mobile apps
-    - Propose solutions to vulnerabilities like cross-site scripting and implement them on spring boot
+  - Understand OWASP vulnerabilities and learn how to use OWASP ZAP to crawl websites
+  - Do penetration testing on the product
+  - Generated vulnerability reports for websites and mobile apps
+  - Propose solutions to vulnerabilities like cross-site scripting and implement them on spring boot
 <hr>
 
 ## 🎓 Education:
