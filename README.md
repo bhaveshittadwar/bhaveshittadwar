@@ -60,7 +60,7 @@ As a dedicated problem-solving enthusiast pursuing a Master's in Computer Scienc
 ## 🎓 Education:
 <img src="https://brand.ncsu.edu/img/downloads/logo-01.jpg" width="200px">
 
-Incoming MCS @ NCSU
+Master Of Computer Science @ NCSU
 
 <hr>
 <img src="https://www.vishwakarmainternational.com/images/logo/VIT-logo.png" width="120px">
