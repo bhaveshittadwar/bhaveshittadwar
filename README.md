@@ -39,14 +39,15 @@ As a dedicated problem-solving enthusiast pursuing a Master's in Computer Scienc
   - Developer in CX team of the Digital Factory for 400+ Michelin websites worldwide
   - Responsible for the front end of CRM websites built for warranties, promotions, sign-up, login & user management in the UD squad
   - Contributed in the FFCP(A funnel program for users) for french promotional websites
-  - Built a multi-slide sliding pause-on-hover panel
+  - Centralized 'forms' module, aligning with best practices cutting configuration and per-project code by 300 lines
   - Supported the B2C team on the header revamp on B2C websites
 <hr>
 <img src="https://cdn.freebiesupply.com/images/large/2x/michelin-logo-png-transparent.png" width="150px">
 
 ### Internship Trainee
-  - Worked on API Portal – based on Software AG for enhancing the UX using Bootstrap 2
-  - Training on HTML, CSS, Bootstrap, VueJS, JS, SCSS, Apostrophe CMS, Node, MongoDB, git, and Docker(basic).
+  - Worked on API Portal – based on Software AG for enhancing the UX using Bootstrap
+  - Actively lead cleanup of vulnerabilities and bad coding practices reported by SonarQube for Michelin’s
+CRM sites by eliminating on an average 3-5 incidents of dirty code/vulnerabilities each month
 <hr>
 <img src="https://abb.bluecoiniot.com/img/logoblue.png" width="125px">
 
