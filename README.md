@@ -48,7 +48,7 @@ As a dedicated problem-solving enthusiast pursuing a Master's in Computer Scienc
   - Actively lead cleanup of vulnerabilities and bad coding practices reported by SonarQube for Michelin’s
 CRM sites by eliminating on an average 3-5 incidents of dirty code/vulnerabilities each month
 <hr>
-<img src="https://abb.bluecoiniot.com/img/logoblue.png" width="125px">
+<img src="https://rbo.bluecoiniot.com/img/MicrosoftTeams-image.png" width="125px">
 
 ### Intern
   - Understand OWASP vulnerabilities and learn how to use OWASP ZAP to crawl websites
